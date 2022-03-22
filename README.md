@@ -1,7 +1,7 @@
 # Spring Project
 A project to manage a list of student    
 This project is composed of two parts: part one login, part two manage a list of student 
-Using the Spring boot framework, sqlAdmin
+Using the Spring boot framework, Thymeleaf and sqlAdmin  
 To install and run  the project, first of all you need to prepare a springboot environment in your laptop than clone the line (https://github.com/Amina114/SpringProject.git)
 of the project in the folder you has created  
 
